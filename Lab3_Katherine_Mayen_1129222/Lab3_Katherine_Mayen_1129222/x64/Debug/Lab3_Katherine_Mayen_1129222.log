@@ -1,0 +1,8 @@
+﻿  MyFormMenu.cpp
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\Ejercicio1.h(175,19): warning C4101: 'respuesta': unreferenced local variable
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\Ejercicio3.h(249,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\Ejercicio3.h(254,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\Ejercicio3.h(266,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\Ejercicio3.h(271,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Ejercicio1.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Lab3_Katherine_Mayen_1129222.vcxproj -> C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\x64\Debug\Lab3_Katherine_Mayen_1129222.exe

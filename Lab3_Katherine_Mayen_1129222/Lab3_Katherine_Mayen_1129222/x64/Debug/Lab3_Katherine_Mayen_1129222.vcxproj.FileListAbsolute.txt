@@ -1,0 +1,6 @@
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\x64\Debug\Lab3_Katherine_Mayen_1129222.vcxproj.AssemblyReference.cache
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\x64\Debug\Lab3KatherineMayen1129222.Ejercicio1.resources
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\x64\Debug\Lab3KatherineMayen1129222.MyFormMenu.resources
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\x64\Debug\Lab3_Katherine_Mayen_1129222.vcxproj.GenerateResource.cache
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\x64\Debug\Lab3KatherineMayen1129222.Ejercicio2.resources
+C:\Users\kathe\source\repos\Lab3_Katherine_Mayen_1129222\Lab3_Katherine_Mayen_1129222\x64\Debug\Lab3KatherineMayen1129222.Ejercicio3.resources
